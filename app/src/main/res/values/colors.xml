@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2A2A2A</color>
+    <color name="colorPrimaryDark">#2A2A2A</color>
+    <color name="colorAccent">#2A2A2A</color>
+    <color name="line_selected">#2B4CD1</color>
+    <color name="line_focused">#2B4CD1</color>
+    <color name="White">#FFFFFF</color>
+    <color name="logo_color">#D82323</color>
+    <color name="gray">#2A2A2A</color>
+    <color name="bottom_gray">#5B5B5B</color>
+
+
+</resources>

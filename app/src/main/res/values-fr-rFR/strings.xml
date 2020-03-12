@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RedBird</string>
+    <string name="myHint1" translatable="false">Entrer votre texte</string>
+    <string name="myHint2" translatable="false">verifier votre texte</string>
+    <string name="myHint3" translatable="false">Reinitialiser</string>
+    <string name="myHint4" translatable="false">Verification</string>
+    <string name="title" translatable="false">Bienvenu sur OTP!</string>
+    <string name="btnHeader" translatable="false">B</string>
+    <string name="begin" translatable="false">Commencer</string>
+    <string name="txtPhoneNumber" translatable="false">Entrer Votre Nummero de Telephone</string>
+    <string name="btnCancel" translatable="false">Annuler</string>
+    <string name="btnNext" translatable="false">Suivant</string>
+    <string name="InputCode" translatable="false">+237</string>
+    <string name="txtCodeOTP" translatable="false">Entrer Votre Code OTP</string>
+    <string name="underscore" translatable="false">_</string>
+    <string name="success" translatable="false">VERIFICATION REUSSIE</string>
+    <string name="failed" translatable="false">VERIFICATION ECHOUEE</string>
+    <string name="restart_btn" translatable="false">Recommencer</string>
+    <string name="code_correct" translatable="false">Code Correct!</string>
+    <string name="code_incorrect" translatable="false">Code Incorrect!</string>
+    <string name="name_logo" translatable="false">REDBIRD</string>
+    <string name="app_description" translatable="false">Application de Commande de Boisson</string>
+    <string name="slide1" translatable="false">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+    </string>
+    <string name="slide2" translatable="false">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+    </string>
+    <string name="slide3" translatable="false">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+    </string>
+    <string name="fragment_A" translatable="false">fragment A</string>
+    <string name="fragment_B" translatable="false">fragment B</string>
+    <string name="fragment_C" translatable="false">fragment C</string>
+    <string name="fragment_D" translatable="false">fragment D</string>
+    <string name="fragment_E" translatable="false">fragment E</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logIn">Connexion</string>
+    <string name="signUp">Inscription</string>
+
+    <string name="hintUsername">Nom d\'utilisateur</string>
+    <string name="hintPsw">Entrer mot de passe</string>
+    <string name="hintConfirmPsw">Confirmer mot de passe</string>
+    <string name="hintPhone">Numéro de Téléphone</string>
+    <string name="btnValidate">Valider</string>
+    <string name="forgetPsw">Mot de passe oublié ?</string>
+    <string name="btnConnect">Se Connecter</string>
+    <string name="btnSuscribe">S\'inscrire</string>
+
+
+</resources>

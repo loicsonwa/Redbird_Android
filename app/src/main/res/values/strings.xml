@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">RedBird</string>
+    <string name="myHint1" translatable="false">Enter your text</string>
+    <string name="myHint2" translatable="false">Verify your text</string>
+    <string name="myHint3" translatable="false">Reset</string>
+    <string name="myHint4" translatable="false">Verification</string>
+    <string name="title" translatable="false">Welcome On OTP!</string>
+    <string name="btnHeader" translatable="false">W</string>
+    <string name="begin" translatable="false">Begin</string>
+    <string name="txtPhoneNumber" translatable="false">Enter Your Phone Number</string>
+    <string name="btnCancel" translatable="false">Cancel</string>
+    <string name="btnNext" translatable="false">Next</string>
+    <string name="InputCode" translatable="false">+237</string>
+    <string name="txtCodeOTP" translatable="false">Enter Your OTP Code</string>
+    <string name="underscore" translatable="false">_</string>
+    <string name="success" translatable="false">SUCCESS VERIFICATION</string>
+    <string name="failed" translatable="false">VERIFICATION FAILED</string>
+    <string name="restart_btn" translatable="false">Restart</string>
+    <string name="code_correct" translatable="false">Correct Code!</string>
+    <string name="code_incorrect" translatable="false">Incorrect Code!</string>
+    <string name="name_logo" translatable="false">REDBIRD</string>
+    <string name="app_description" translatable="false"> </string>
+    <string name="slide1" translatable="false">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+    </string>
+    <string name="slide2" translatable="false">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+    </string>
+    <string name="slide3" translatable="false">
+        Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor
+    </string>
+    <string name="fragment_A" translatable="false">fragment A</string>
+    <string name="fragment_B" translatable="false">fragment B</string>
+    <string name="fragment_C" translatable="false">fragment C</string>
+    <string name="fragment_D" translatable="false">fragment D</string>
+    <string name="fragment_E" translatable="false">fragment E</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logIn">Login</string>
+    <string name="signUp">Sign Up</string>
+    <string name="hintUsername">Enter Username</string>
+    <string name="hintPsw">Enter Password</string>
+    <string name="hintConfirmPsw">Confirm Password</string>
+    <string name="hintPhone">Enter Phone Number</string>
+    <string name="btnValidate">Validate</string>
+    <string name="forgetPsw">Forgot your password ?</string>
+    <string name="btnConnect">Login</string>
+    <string name="btnSuscribe">Register</string>
+
+
+</resources>

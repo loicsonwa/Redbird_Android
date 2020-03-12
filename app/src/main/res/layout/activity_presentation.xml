@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Presentation"
+    android:background="@color/gray"
+    >
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginBottom="56dp"
+    android:background="@color/gray">
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@mipmap/accueil"/>
+
+    <androidx.appcompat.widget.AppCompatImageView
+        android:layout_width="257dp"
+        android:layout_height="114dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="80dp"
+        android:layout_marginEnd="80dp"
+        android:layout_marginBottom="348dp"
+        android:src="@drawable/logo" />
+
+    <RelativeLayout
+        android:id="@+id/text_RelativeLayout"
+        android:layout_width="match_parent"
+        android:layout_height="121dp"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="214dp">
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="@string/name_logo"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="40sp" />
+
+        <com.google.android.material.textview.MaterialTextView
+            android:layout_width="match_parent"
+            android:layout_height="65dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="0dp"
+            android:text="@string/app_description"
+            android:textAlignment="center"
+            android:textColor="@color/White"
+            android:textSize="25dp" />
+
+    </RelativeLayout>
+</RelativeLayout>
+
+
+</RelativeLayout>

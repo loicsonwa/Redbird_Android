@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/content"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".login.LogFragment"
+    android:background="@color/gray"
+    android:layout_marginTop="115dp">
+
+    <com.google.android.material.textfield.TextInputEditText
+        android:layout_width="200dp"
+        android:layout_height="40dp"
+        android:background="@drawable/textbox_drawer"
+        android:drawableStart="@drawable/buy_24px"
+        android:drawablePadding="5dp"
+        android:hint="test"
+        android:textColor="@color/White"
+        android:textColorHint="@color/White"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.235" />
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
